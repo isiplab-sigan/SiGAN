@@ -1,2 +1,2 @@
-# SiGAN-BCSE
+# SiGAN
 Demo
